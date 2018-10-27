@@ -1,0 +1,33 @@
+* {
+padding: 0 0;
+margin: 0 0;
+}
+.nav .img_li {
+    float: left;
+    width: 60px;
+    margin-right: 10px;
+  }
+li.user_li {
+    margin: 20px 0 0;
+    width: 280px;
+    height: 50px;
+    margin: 0px 0px 0px 0px;
+
+
+}
+body .student_li .student_img {
+    float: left;
+
+}
+.student_li {
+    margin-bottom: 13px;
+
+}
+#users-side-menu{
+    width:280px;
+    margin-left: 20px;
+}
+
+.cs-images{
+    width:60px;
+}
